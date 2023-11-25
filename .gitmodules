@@ -1,0 +1,3 @@
+[submodule "Packages/SphericalHarmonics"]
+	path = Packages/SphericalHarmonics
+	url = https://github.com/Fewes/SphericalHarmonics.git
